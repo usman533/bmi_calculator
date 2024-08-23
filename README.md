@@ -1,12 +1,7 @@
 # bmi_calculator
+![WhatsApp Image 2024-08-22 at 7 55 06 PM](https://github.com/user-attachments/assets/7db182cb-2ddd-4e60-995b-8f9cb67f8f28)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
